@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description name="Update site for PP Sense plugin">
+      This site is for publishing updates of PP Sense plugin, that provides PHP code assistance tailored for particular custom framework.
+   </description>
+   <feature url="features/pp_sense_feature_0.0.1.jar" id="pp_sense_feature" version="0.0.1">
+      <category name="code_assist_category"/>
+   </feature>
+   <category-def name="code_assist_category" label="Code Assistance Tools">
+      <description>
+         PHP code assistance tools.
+      </description>
+   </category-def>
+</site>
